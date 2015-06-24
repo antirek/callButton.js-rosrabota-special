@@ -1,0 +1,24 @@
+{
+  "name": "callButton.js-rosrabot-special",
+  "version": "1.0.0",
+  "description": "callButton.js freeze for rosrabota (special)",
+  "main": "callButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/callButton.js-rosrabota-special.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/callButton.js-rosrabota-special/issues"
+  },
+  "homepage": "https://github.com/antirek/callButton.js-rosrabota-special",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2"
+  }
+}
